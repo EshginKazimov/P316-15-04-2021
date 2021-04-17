@@ -1,0 +1,16 @@
+C:\Users\EshginK\source\repos\StructEnumOperatorTuple\StructEnumOperatorTuple\bin\Debug\net5.0\StructEnumOperatorTuple.exe
+C:\Users\EshginK\source\repos\StructEnumOperatorTuple\StructEnumOperatorTuple\bin\Debug\net5.0\StructEnumOperatorTuple.deps.json
+C:\Users\EshginK\source\repos\StructEnumOperatorTuple\StructEnumOperatorTuple\bin\Debug\net5.0\StructEnumOperatorTuple.runtimeconfig.json
+C:\Users\EshginK\source\repos\StructEnumOperatorTuple\StructEnumOperatorTuple\bin\Debug\net5.0\StructEnumOperatorTuple.runtimeconfig.dev.json
+C:\Users\EshginK\source\repos\StructEnumOperatorTuple\StructEnumOperatorTuple\bin\Debug\net5.0\StructEnumOperatorTuple.dll
+C:\Users\EshginK\source\repos\StructEnumOperatorTuple\StructEnumOperatorTuple\bin\Debug\net5.0\ref\StructEnumOperatorTuple.dll
+C:\Users\EshginK\source\repos\StructEnumOperatorTuple\StructEnumOperatorTuple\bin\Debug\net5.0\StructEnumOperatorTuple.pdb
+C:\Users\EshginK\source\repos\StructEnumOperatorTuple\StructEnumOperatorTuple\obj\Debug\net5.0\StructEnumOperatorTuple.csprojAssemblyReference.cache
+C:\Users\EshginK\source\repos\StructEnumOperatorTuple\StructEnumOperatorTuple\obj\Debug\net5.0\StructEnumOperatorTuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EshginK\source\repos\StructEnumOperatorTuple\StructEnumOperatorTuple\obj\Debug\net5.0\StructEnumOperatorTuple.AssemblyInfoInputs.cache
+C:\Users\EshginK\source\repos\StructEnumOperatorTuple\StructEnumOperatorTuple\obj\Debug\net5.0\StructEnumOperatorTuple.AssemblyInfo.cs
+C:\Users\EshginK\source\repos\StructEnumOperatorTuple\StructEnumOperatorTuple\obj\Debug\net5.0\StructEnumOperatorTuple.csproj.CoreCompileInputs.cache
+C:\Users\EshginK\source\repos\StructEnumOperatorTuple\StructEnumOperatorTuple\obj\Debug\net5.0\StructEnumOperatorTuple.dll
+C:\Users\EshginK\source\repos\StructEnumOperatorTuple\StructEnumOperatorTuple\obj\Debug\net5.0\ref\StructEnumOperatorTuple.dll
+C:\Users\EshginK\source\repos\StructEnumOperatorTuple\StructEnumOperatorTuple\obj\Debug\net5.0\StructEnumOperatorTuple.pdb
+C:\Users\EshginK\source\repos\StructEnumOperatorTuple\StructEnumOperatorTuple\obj\Debug\net5.0\StructEnumOperatorTuple.genruntimeconfig.cache
